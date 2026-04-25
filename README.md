@@ -15,10 +15,11 @@ O objetivo desse projeto foi treinar meus conhecimentos na linguagem JAVA, não 
 - Deve haver um Menu de Administrador;
 - Apenas o Administrador poderá visualizar a Lista de Usuários e Editar/Remover Produtos;
   
-##Para os Produtos
+## Para os Produtos
 - Quando a quantidade de um Produto chega a zero, ele se torna indisponível para a Compra;
 
 ## Para o Usuário
 - Usuários podem deletar sua conta, porém precisam se verificar e confirmar com o uso de sua senha;
 
+## Considerações do DEV
 No fim, todos os requisitos foram atingidos após algumas horas de desenvolvimento e testes. Para dar continuidade a esse projeto pretendo fazer uma ligação direta com um Banco de Dados SQL, criar um registro de logs para melhorar a segurança e adicionar uma Interface Gráfica para não depender do uso do Terminal e tornar a aplicação mais "palpável". Caso usem esse sistema para algum teste, ficaria muito agradecido em receber feedbacks de melhoria ou correção de bugs!
